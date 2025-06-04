@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Multiplayer Challenge Game
+
+This prototype demonstrates a simple skill-based game built with React. Players compete to earn the highest score within a limited time. For an eventual production release, entry fees and pooled rewards can be added.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
