@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
-import { motion } from 'motion/react';  // Используем Motion для анимаций
+import { motion } from 'framer-motion';
+  // Используем Motion для анимаций
 
 // Настройки игры
 const gameWidth = 800;
